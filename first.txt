@@ -5,4 +5,6 @@ Gitの練習をしていきます
 ・git rm
 ・git status
 ・git diff
-・git commit
+・git commit --amend
+・もう一行追加するんだった
+しまった、また間違えたので追記
